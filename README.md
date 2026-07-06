@@ -29,6 +29,12 @@
   <a href="https://kubernetes.io/docs/home/">
     <img src="https://skillicons.dev/icons?i=kubernetes" height="48" />
   </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://skillicons.dev/icons?i=fastapi" height="48" />
+  </a>
+  <a href="https://docs.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" height="48" />
+  </a>
   <a href="https://pytorch.org/docs/stable/">
     <img src="https://skillicons.dev/icons?i=pytorch" height="48" />
   </a>
