@@ -3,9 +3,14 @@
 
 > Building smart machines and the systems that keep up with them.
 
-MS in Computer Science at Arizona State University.
+## Education
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ompatel)
+- MS Computer Science @ Arizona State University '27
+- BS Computer Science @ Arizona State University '26
+- Former Software Engineer @ TheBeautyRunners
+- IT Support and Content Manager @ Arizona State University
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/om15patel)
 [![Email](https://img.shields.io/badge/Email-opatel7%40asu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opatel7@asu.edu)
 
 ## Tech Stack
