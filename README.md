@@ -1,67 +1,88 @@
-
 # Om Patel
 
 > Building smart machines and the systems that keep up with them.
+>
+> MS Computer Science @ Arizona State University focused on backend infrastructure, distributed systems, and applied AI.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om15patel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ompatel.info-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ompatel.info)
+[![Email](https://img.shields.io/badge/Email-opatel7@asu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opatel7@asu.edu)
+
+---
 
 ## Education
 
 - MS Computer Science @ Arizona State University '27
 - BS Computer Science @ Arizona State University '26
-- Former Software Engineer @ TheBeautyRunners
-- IT Support and Content Manager @ Arizona State University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om15patel)
-[![Email](https://img.shields.io/badge/Email-opatel7%40asu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opatel7@asu.edu)
+---
 
 ## Tech Stack
 
-<p align="left">
+<p>
   <a href="https://www.python.org/doc/">
-    <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
+    <img src="https://skillicons.dev/icons?i=python" height="48" />
   </a>
   <a href="https://docs.aws.amazon.com/">
-    <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/>
+    <img src="https://skillicons.dev/icons?i=aws" height="48" />
   </a>
   <a href="https://kubernetes.io/docs/home/">
-    <img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes" height="48" />
   </a>
-  <a href="https://pytorch.org/docs/stable/index.html">
-    <img src="https://skillicons.dev/icons?i=pytorch" height="48" alt="PyTorch"/>
+  <a href="https://pytorch.org/docs/stable/">
+    <img src="https://skillicons.dev/icons?i=pytorch" height="48" />
   </a>
 </p>
 
-## Backend
+---
 
-### [Preview Environment Manager]([https://github.com/OM152002/preview-environment-manager](https://github.com/OM152002/Preview-env-manager.git))
+## Backend & Distributed Systems
 
-Kubernetes platform that auto provisions isolated environments for every pull request using Node.js and GitHub webhooks.
+### [NeoFlow](https://github.com/OM152002/NeoFlow-NYC)
 
-![Preview Environment Manager](https://github-readme-stats.vercel.app/api/pin/?username=OM152002&repo=preview-environment-manager&theme=transparent&hide_border=true)
+Real time graph analytics platform built with Kafka, Neo4j, Kubernetes, FastAPI, and Streamlit, exposing PageRank and BFS through a REST API with an interactive dashboard.
 
-### [Custom C++ Compiler and Interpreter]([https://github.com/OM152002/cpp-compiler](https://github.com/OM152002/Compiler.git))
+### [Preview Environment Manager](https://github.com/OM152002/Preview-env-manager)
 
-Lexer, parser, AST construction, and an execution engine built over a linked list intermediate representation.
+Kubernetes platform that automatically provisions isolated preview environments for every pull request using Node.js, Docker, and GitHub webhooks.
 
-![Custom C++ Compiler](https://github-readme-stats.vercel.app/api/pin/?username=OM152002&repo=cpp-compiler&theme=transparent&hide_border=true)
+### [Custom C++ Compiler and Interpreter](https://github.com/OM152002/Compiler)
 
-## Fullstack
+Built a lexer, parser, AST, and execution engine for a custom programming language using a linked list intermediate representation.
 
-### [TheBeautyRunners App]
+---
 
-React Native application with a Firebase serverless backend, Stripe payments, and TestFlight beta releases.
+## AI Applications
 
-![TheBeautyRunners](https://github-readme-stats.vercel.app/api/pin/?username=OM152002&repo=thebeautyrunners&theme=transparent&hide_border=true)
+### [GetCoverly](https://github.com/OM152002/GetCoverly)
 
-## AI/ML
+AI powered cover letter generator using GPT 4o that transforms resumes and job descriptions into personalized cover letters with Firebase authentication and cloud storage.
 
-### [Serverless Computer Vision Pipeline](https://github.com/OM152002/serverless-computer-vision)
+### Serverless Computer Vision Pipeline
 
-Distributed face recognition on AWS Lambda, SQS, and ECR using MTCNN and InceptionResnetV1 with sub two second latency across one hundred concurrent inferences.
+Distributed face recognition pipeline on AWS Lambda, SQS, and ECR using MTCNN and InceptionResnetV1, optimized for sub two second inference across one hundred concurrent requests.
 
-![Serverless Computer Vision Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=OM152002&repo=serverless-computer-vision&theme=transparent&hide_border=true)
+---
 
-### [NeoFlow]([https://github.com/OM152002/neoflow](https://github.com/OM152002/NeoFlow-NYC.git))
+## Full Stack
 
-Real time graph analytics with Kafka, Neo4j, and Kubernetes exposing PageRank and BFS through FastAPI with a Streamlit dashboard.
+### TheBeautyRunners (Capstone Project)
 
-![NeoFlow](https://github-readme-stats.vercel.app/api/pin/?username=OM152002&repo=neoflow&theme=transparent&hide_border=true)
+React Native application with a Firebase serverless backend, Stripe payments, and TestFlight beta distribution.
+
+---
+
+## Other Projects
+
+### [Decentralized Smart Contract Based Escrow System](https://github.com/myselfsiddharth/Decentralized-Smart-Contract-Based-Escrow-System)
+
+Team project implementing a Solidity based escrow workflow on Polygon using Hardhat, OpenZeppelin, React, and ethers.js for trustless client freelancer payments.
+
+### [Clipboard for Mac](https://github.com/OM152002/Clipboard-for-Mac)
+
+Menu bar clipboard manager for macOS built with SwiftUI that keeps clipboard history, supports keyboard driven search, and launches instantly with a global shortcut.
+
+### [Pacific Trails Resort Website](https://github.com/OM152002/Pacific-Trails-Website)
+
+Responsive multi page resort website featuring Firebase Authentication, persistent user accounts, and a clean, modern user experience.
+
