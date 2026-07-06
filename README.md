@@ -10,7 +10,7 @@
 - Former Software Engineer @ TheBeautyRunners
 - IT Support and Content Manager @ Arizona State University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/om15patel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om15patel)
 [![Email](https://img.shields.io/badge/Email-opatel7%40asu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opatel7@asu.edu)
 
 ## Tech Stack
@@ -32,13 +32,13 @@
 
 ## Backend
 
-### [Preview Environment Manager](https://github.com/OM152002/preview-environment-manager)
+### [Preview Environment Manager]([https://github.com/OM152002/preview-environment-manager](https://github.com/OM152002/Preview-env-manager.git))
 
 Kubernetes platform that auto provisions isolated environments for every pull request using Node.js and GitHub webhooks.
 
 ![Preview Environment Manager](https://github-readme-stats.vercel.app/api/pin/?username=OM152002&repo=preview-environment-manager&theme=transparent&hide_border=true)
 
-### [Custom C++ Compiler and Interpreter](https://github.com/OM152002/cpp-compiler)
+### [Custom C++ Compiler and Interpreter]([https://github.com/OM152002/cpp-compiler](https://github.com/OM152002/Compiler.git))
 
 Lexer, parser, AST construction, and an execution engine built over a linked list intermediate representation.
 
@@ -46,7 +46,7 @@ Lexer, parser, AST construction, and an execution engine built over a linked lis
 
 ## Fullstack
 
-### [TheBeautyRunners App](https://github.com/OM152002/thebeautyrunners)
+### [TheBeautyRunners App]
 
 React Native application with a Firebase serverless backend, Stripe payments, and TestFlight beta releases.
 
@@ -60,7 +60,7 @@ Distributed face recognition on AWS Lambda, SQS, and ECR using MTCNN and Incepti
 
 ![Serverless Computer Vision Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=OM152002&repo=serverless-computer-vision&theme=transparent&hide_border=true)
 
-### [NeoFlow](https://github.com/OM152002/neoflow)
+### [NeoFlow]([https://github.com/OM152002/neoflow](https://github.com/OM152002/NeoFlow-NYC.git))
 
 Real time graph analytics with Kafka, Neo4j, and Kubernetes exposing PageRank and BFS through FastAPI with a Streamlit dashboard.
 
