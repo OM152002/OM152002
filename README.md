@@ -1,4 +1,4 @@
-```markdown
+
 # Om Patel
 
 > Building smart machines and the systems that keep up with them.
@@ -60,4 +60,3 @@ Distributed face recognition on AWS Lambda, SQS, and ECR using MTCNN and Incepti
 Real time graph analytics with Kafka, Neo4j, and Kubernetes exposing PageRank and BFS through FastAPI with a Streamlit dashboard.
 
 ![NeoFlow](https://github-readme-stats.vercel.app/api/pin/?username=OM152002&repo=neoflow&theme=transparent&hide_border=true)
-```
