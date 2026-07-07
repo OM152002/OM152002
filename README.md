@@ -64,7 +64,7 @@ Built a lexer, parser, AST, and execution engine for a custom programming langua
 
 AI powered cover letter generator using GPT 4o that transforms resumes and job descriptions into personalized cover letters with Firebase authentication and cloud storage.
 
-### Serverless Computer Vision Pipeline
+### [Serverless Computer Vision Pipeline](https://github.com/OM152002/serverless-computer-vision-pipeline.git)
 
 Distributed face recognition pipeline on AWS Lambda, SQS, and ECR using MTCNN and InceptionResnetV1, optimized for sub two second inference across one hundred concurrent requests.
 
