@@ -38,6 +38,15 @@
   <a href="https://pytorch.org/docs/stable/">
     <img src="https://skillicons.dev/icons?i=pytorch" height="48" />
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" height="48" />
+  </a>
+  <a href="https://www.postgresql.org/docs/">
+    <img src="https://skillicons.dev/icons?i=postgres" height="48" />
+  </a>
+  <a href="https://nodejs.org/en/docs/">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
+  </a>
 </p>
 
 ---
@@ -91,4 +100,3 @@ Menu bar clipboard manager for macOS built with SwiftUI that keeps clipboard his
 ### [Pacific Trails Resort Website](https://github.com/OM152002/Pacific-Trails-Website)
 
 Responsive multi page resort website featuring Firebase Authentication, persistent user accounts, and a clean, modern user experience.
-
