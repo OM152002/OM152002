@@ -20,6 +20,12 @@
 ## Tech Stack
 
 <p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" height="48" />
+  </a>
+  <a href="https://nodejs.org/en/docs/">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
+  </a>
   <a href="https://www.python.org/doc/">
     <img src="https://skillicons.dev/icons?i=python" height="48" />
   </a>
@@ -28,6 +34,9 @@
   </a>
   <a href="https://kubernetes.io/docs/home/">
     <img src="https://skillicons.dev/icons?i=kubernetes" height="48" />
+  </a>
+  <a href="https://www.postgresql.org/docs/">
+    <img src="https://skillicons.dev/icons?i=postgres" height="48" />
   </a>
   <a href="https://fastapi.tiangolo.com/">
     <img src="https://skillicons.dev/icons?i=fastapi" height="48" />
@@ -38,15 +47,8 @@
   <a href="https://pytorch.org/docs/stable/">
     <img src="https://skillicons.dev/icons?i=pytorch" height="48" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" height="48" />
-  </a>
-  <a href="https://www.postgresql.org/docs/">
-    <img src="https://skillicons.dev/icons?i=postgres" height="48" />
-  </a>
-  <a href="https://nodejs.org/en/docs/">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
-  </a>
+  
+  
 </p>
 
 ---
