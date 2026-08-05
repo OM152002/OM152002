@@ -71,13 +71,18 @@ Built a lexer, parser, AST, and execution engine for a custom programming langua
 
 ## AI Applications
 
-### [GetCoverly](https://github.com/OM152002/GetCoverly)
+### [Multi-Agent LLM Disagreement for Financial Sentiment](https://github.com/OM152002/finance_disagreement)
 
-AI powered cover letter generator using GPT 4o that transforms resumes and job descriptions into personalized cover letters with Firebase authentication and cloud storage.
+Pipeline orchestrating 5 LLM persona-agents (OpenAI + Ollama) over ~9.5K financial texts; engineered inter-agent disagreement features that lift sentiment macro-F1 from 0.73 (text-only) to 0.84 when fused with text on a 3-class imbalanced task.
 
 ### [Serverless Computer Vision Pipeline](https://github.com/OM152002/serverless-computer-vision-pipeline.git)
 
 Distributed face recognition pipeline on AWS Lambda, SQS, and ECR using MTCNN and InceptionResnetV1, optimized for sub two second inference across one hundred concurrent requests.
+
+### [GetCoverly](https://github.com/OM152002/GetCoverly)
+
+AI powered cover letter generator using GPT 4o that transforms resumes and job descriptions into personalized cover letters with Firebase authentication and cloud storage.
+
 
 ---
 
