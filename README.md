@@ -47,6 +47,9 @@
   <a href="https://pytorch.org/docs/stable/">
     <img src="https://skillicons.dev/icons?i=pytorch" height="48" />
   </a>
+  <a href="https://scikit-learn.org/stable/">
+    <img src="https://skillicons.dev/icons?i=sklearn" height="48" />
+  </a>
   
   
 </p>
