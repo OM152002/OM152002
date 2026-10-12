@@ -5,7 +5,7 @@
 > MS Computer Science @ Arizona State University focused on backend infrastructure, distributed systems, and applied AI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om15patel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ompatel.info-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ompatel.info)
+[![Portfolio](https://img.shields.io/badge/Portfolio-patelom.info-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.patelom.info)
 [![Email](https://img.shields.io/badge/Email-opatel7@asu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opatel7@asu.edu)
 
 ---
